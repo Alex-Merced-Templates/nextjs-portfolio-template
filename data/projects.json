@@ -1,0 +1,35 @@
+
+[
+  {
+    "name": "Project 1",
+    "image": "url",
+    "slug": "project_1",
+    "description": "some description",
+    "live": "http://www.livesite.com",
+    "github": "http://www.github.com/username/projectrepo"
+  },
+  {
+    "name": "Project 2",
+    "image": "url",
+    "slug": "project_2",
+    "description": "some description",
+    "live": "http://www.livesite.com",
+    "github": "http://www.github.com/username/projectrepo"
+  },
+  {
+    "name": "Project 3",
+    "image": "url",
+    "description": "some description",
+    "slug": "project_3",
+    "live": "http://www.livesite.com",
+    "github": "http://www.github.com/username/projectrepo"
+  },
+  {
+    "name": "Project 4",
+    "image": "url",
+    "description": "some description",
+    "slug": "project_3",
+    "live": "http://www.livesite.com",
+    "github": "http://www.github.com/username/projectrepo"
+  }
+]
